@@ -11,17 +11,16 @@ The application is purely **front-end**, designed to be easily integrated with a
 ## 🖥️ Screenshots
 
 ### Home Page
-<img src="screenshots/home.png" width="80%" />
+<img src="screenshots/home.PNG" width="80%" />
 
 ### Blog / News Section
-<img src="screenshots/blog.png" width="80%" />
+<img src="screenshots/blog.PNG" width="80%" />
 
 ### Testimonials Page
-<img src="screenshots/test.png" width="80%" />
+<img src="screenshots/test.PNG" width="80%" />
 
 ### Contact Page
-<img src="screenshots/contact.png" width="80%" />
-
+<img src="screenshots/contact.PNG" width="80%" />
 ---
 
 ## ✨ Features
